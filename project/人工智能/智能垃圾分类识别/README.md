@@ -12,6 +12,9 @@
 
 - 张依梦、李炳文
 
+#### 展示视频
+
+- [项目展示视频](https://www.bilibili.com/video/BV12A411v7C4)
 
 ### 项目截图
 

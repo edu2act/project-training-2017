@@ -12,6 +12,9 @@
 
 - 夏炜轩、司涵、李沛伦、侯瑞琪、张晓焕
 
+#### 展示视频
+
+- [项目展示视频](https://www.bilibili.com/video/BV1Rp4y1D7aU)
 
 ### 项目截图
 

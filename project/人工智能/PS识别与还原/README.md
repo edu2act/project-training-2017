@@ -12,6 +12,9 @@
 
 - 籍家荣、邬洲、张炳辰、孙培钧
 
+#### 展示视频
+
+- [项目展示视频](https://www.bilibili.com/video/BV1gz4y1R7jp)
 
 ### 项目截图
 
