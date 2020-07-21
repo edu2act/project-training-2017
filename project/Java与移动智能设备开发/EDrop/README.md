@@ -16,13 +16,13 @@
 ### 项目截图
 
 <p>
-  <img src="./image/1.jpg"  width=250 height=444 />
-  <img src="./image/2.jpg"  width=250 height=444 />
-  <img src="./image/3.jpg"  width=250 height=444 />
+  <img src="./image/1.JPG"  width=250 height=444 />
+  <img src="./image/2.JPG"  width=250 height=444 />
+  <img src="./image/3.JPG"  width=250 height=444 />
 </p>
 
 <p>
-  <img src="./image/4.jpg"  width=250 height=444 />
+  <img src="./image/4.JPG"  width=250 height=444 />
   <img src="./image/5.jpg"  width=250 height=444 />
-  <img src="./image/6.jpg"  width=250 height=444 />
+  <img src="./image/6.JPG"  width=250 height=444 />
 </p>

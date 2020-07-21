@@ -26,21 +26,21 @@
 <img src="./image/5.png"/>
 
 <p>
-  <img src="./image/6.jpg"  width=250 height=444 />
-  <img src="./image/7.jpg"  width=250 height=444 />
-  <img src="./image/8.jpg"  width=250 height=444 />
+  <img src="./image/6.JPG"  width=250 height=444 />
+  <img src="./image/7.JPG"  width=250 height=444 />
+  <img src="./image/8.JPG"  width=250 height=444 />
 </p>
 
 <p>
   <img src="./image/9.jpg"  width=250 height=444 />
   <img src="./image/10.jpg"  width=250 height=444 />
-  <img src="./image/11.jpg"  width=250 height=444 />
+  <img src="./image/11.JPG"  width=250 height=444 />
 </p>
 
 <p>
   <img src="./image/12.jpg"  width=250 height=444 />
   <img src="./image/13.jpg"  width=250 height=444 />
-  <img src="./image/14.jpg"  width=250 height=444 />
+  <img src="./image/14.JPG"  width=250 height=444 />
 </p>
 
 <p>
@@ -51,13 +51,13 @@
 
 <p>
   <img src="./image/18.jpg"  width=250 height=444 />
-  <img src="./image/19.jpg"  width=250 height=444 />
+  <img src="./image/19.JPG"  width=250 height=444 />
   <img src="./image/20.jpg"  width=250 height=444 />
 </p>
 
 <p>
-  <img src="./image/21.jpg"  width=250 height=444 />
-  <img src="./image/22.jpg"  width=250 height=444 />
+  <img src="./image/21.JPG"  width=250 height=444 />
+  <img src="./image/22.JPG"  width=250 height=444 />
   <img src="./image/23.jpg"  width=250 height=444 />
 </p>
 

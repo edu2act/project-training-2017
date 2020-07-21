@@ -15,35 +15,35 @@
 
 ### 项目截图
 
-<img src="./image/1.jpg"/>
+<img src="./image/1.JPG"/>
 
-<img src="./image/2.jpg"/>
+<img src="./image/2.JPG"/>
 
-<img src="./image/3.jpg"/>
+<img src="./image/3.JPG"/>
 
-<img src="./image/4.png"/>
+<img src="./image/4.PNG"/>
 
 <img src="./image/5.png"/>
 
-<img src="./image/6.jpg"/>
+<img src="./image/6.JPG"/>
 
-<img src="./image/7.jpg"/>
+<img src="./image/7.JPG"/>
 
-<img src="./image/8.jpg"/>
+<img src="./image/8.JPG"/>
 
-<img src="./image/9.jpg"/>
+<img src="./image/9.JPG"/>
 
-<img src="./image/10.png"/>
+<img src="./image/10.PNG"/>
 
-<img src="./image/11.jpg"/>
+<img src="./image/11.JPG"/>
 
-<img src="./image/12.jpg"/>
+<img src="./image/12.JPG"/>
 
-<img src="./image/13.png"/>
+<img src="./image/13.PNG"/>
 
-<img src="./image/14.png"/>
+<img src="./image/14.PNG"/>
 
-<img src="./image/15.jpg"/>
+<img src="./image/15.JPG"/>
 
 <img src="./image/16.png"/>
 
