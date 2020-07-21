@@ -26,7 +26,7 @@
 
 <img src="./image/4.PNG"/>
 
-<img src="./image/5.PNG"/>
+<img src="./image/5.JPG"/>
 
 <img src="./image/6.JPG"/>
 
